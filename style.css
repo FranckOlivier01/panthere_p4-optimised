@@ -1041,5 +1041,5 @@ h4 {
 }
 
 .text-black{
-    color: #000;
+    color: #000 !important;
 }
